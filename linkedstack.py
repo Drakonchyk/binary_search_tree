@@ -3,7 +3,7 @@ File: linkedstack.py
 Author: Ken Lambert
 """
 
-from node import Node
+from nodee import Node
 from abstractstack import AbstractStack
 
 class LinkedStack(AbstractStack):

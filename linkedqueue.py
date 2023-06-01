@@ -3,7 +3,7 @@ File: linkedqueue.py
 Author: Ken Lambert
 """
 
-from node import Node
+from nodee import Node
 from abstractcollection import AbstractCollection
 
 class LinkedQueue(AbstractCollection):
